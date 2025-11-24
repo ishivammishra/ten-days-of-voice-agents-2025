@@ -1,0 +1,27 @@
+[
+  {
+    "id": "2025-11-24T19:35:22.766712+05:30",
+    "timestamp": "2025-11-24T19:35:22.766712+05:30",
+    "mood": "normal",
+    "mood_score": 6,
+    "energy": "low",
+    "objectives": [
+      "complete my homework"
+    ],
+    "agent_summary": "User reported normal mood (6/10), low energy, low stress, and aims to complete homework.",
+    "meta": {}
+  },
+  {
+    "id": "2025-11-24T19:38:10.725466+05:30",
+    "timestamp": "2025-11-24T19:38:10.725466+05:30",
+    "mood": "amazing",
+    "mood_score": 9,
+    "energy": "high",
+    "objectives": [
+      "play video games with friends",
+      "watch movies"
+    ],
+    "agent_summary": "User reported amazing mood (9/10), high energy, medium stress, and aims to play video games and watch movies.",
+    "meta": {}
+  }
+]
