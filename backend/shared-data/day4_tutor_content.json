@@ -1,0 +1,20 @@
+[
+  {
+    "id": "variables",
+    "title": "Variables",
+    "summary": "Variables are named storage locations that hold values. Use them to store numbers, text, and other data so you can reuse or update values.",
+    "sample_question": "What is a variable and why is it useful?"
+  },
+  {
+    "id": "loops",
+    "title": "Loops",
+    "summary": "Loops let you repeat a block of code multiple times. For-loops iterate over a sequence; while-loops run until a condition becomes false.",
+    "sample_question": "Explain the difference between a for loop and a while loop."
+  },
+  {
+    "id": "functions",
+    "title": "Functions",
+    "summary": "Functions are reusable blocks of code that perform a task and can accept inputs and return outputs.",
+    "sample_question": "Why would you use a function? Give an example."
+  }
+]
