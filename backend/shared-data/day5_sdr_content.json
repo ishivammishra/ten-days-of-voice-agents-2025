@@ -1,0 +1,55 @@
+{
+  "company": {
+    "name": "Razorpay",
+    "domain": "razorpay.com",
+    "about": "End-to-end payments and financial solutions for businesses in India: payment gateway, subscriptions, payouts (RazorpayX). Developer-friendly APIs, test sandbox, and enterprise offerings.",
+    "founded": "2014",
+    "headquarters": "Bengaluru, India"
+  },
+  "faq": [
+    {
+      "q": "What is Razorpay?",
+      "a": "Razorpay is a payments and financial solutions platform for businesses. It supports cards, UPI, netbanking, wallets, subscriptions and payouts through RazorpayX."
+    },
+    {
+      "q": "How much does Razorpay charge per transaction?",
+      "a": "A commonly referenced platform fee is ~1.75% per transaction for standard plans; actual rates vary by instrument and account. GST and additional per-instrument charges may apply. Enterprise plans can have negotiated rates."
+    },
+    {
+      "q": "Do you have a sandbox/test environment?",
+      "a": "Yes — Razorpay provides test API keys (rzp_test_*) so you can test integrations without real money."
+    },
+    {
+      "q": "How do I switch between test and live modes?",
+      "a": "Use test API keys for development and the live keys (rzp_live_*) for production. Keep them separate to avoid processing real payments in testing."
+    },
+    {
+      "q": "Is there a setup or maintenance fee?",
+      "a": "Standard gateway plans generally advertise no setup fee for small/standard accounts. Enterprise customers may have custom onboarding or maintenance fees negotiated."
+    },
+    {
+      "q": "What about payouts and RazorpayX fees?",
+      "a": "RazorpayX payouts may have small fixed fees per payout plus taxes. Exact rates depend on payout type and volume—refer to RazorpayX billing for precise numbers."
+    },
+    {
+      "q": "Who is Razorpay for?",
+      "a": "Razorpay is for businesses of all sizes that need to accept payments online or automate payouts — from startups and SMBs to large enterprises."
+    },
+    {
+      "q": "Can I accept recurring payments / subscriptions?",
+      "a": "Yes — Razorpay supports subscriptions via APIs and dashboard features for recurring billing management."
+    },
+    {
+      "q": "How quickly can I integrate?",
+      "a": "Integration speed depends on your stack. With developer-friendly APIs and SDKs, basic integration (checkout) can be done in hours; deeper integrations may take longer."
+    },
+    {
+      "q": "Where can I find developer docs?",
+      "a": "Razorpay maintains public developer documentation and API references on their docs site (developer.razorpay.com)."
+    }
+  ],
+  "pricing_notes": {
+    "reference_platform_fee": "~1.75% (reference for standard gateway; GST may apply).",
+    "note": "Exact pricing varies by instrument (card, UPI, etc.) and account. Enterprise/custom plans require negotiation."
+  }
+}
