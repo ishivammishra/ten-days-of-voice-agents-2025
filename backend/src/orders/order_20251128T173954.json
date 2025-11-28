@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-11-28T12:09:54.942868",
+  "customer_name": "Shivam",
+  "address": "Delhi",
+  "items": [
+    {
+      "id": "peanut_butter_200g",
+      "name": "Peanut Butter 200g",
+      "unit_price": 180.0,
+      "quantity": 2,
+      "line_total": 360.0
+    },
+    {
+      "id": "bread_whole_wheat",
+      "name": "Whole Wheat Bread",
+      "unit_price": 45.0,
+      "quantity": 1,
+      "line_total": 45.0
+    },
+    {
+      "id": "jam_200g",
+      "name": "Strawberry Jam 200g",
+      "unit_price": 140.0,
+      "quantity": 1,
+      "line_total": 140.0
+    },
+    {
+      "id": "butter_250g",
+      "name": "Salted Butter 250g",
+      "unit_price": 200.0,
+      "quantity": 1,
+      "line_total": 200.0
+    }
+  ],
+  "order_total": 745.0
+}
