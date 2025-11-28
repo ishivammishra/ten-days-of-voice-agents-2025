@@ -1,0 +1,162 @@
+[
+  {
+    "id": "bread_whole_wheat",
+    "name": "Whole Wheat Bread",
+    "category": "Groceries",
+    "price": 45.0,
+    "brand": "HealthyGrain",
+    "size": "500g",
+    "units": "loaf",
+    "tags": ["vegan", "bakery"]
+  },
+  {
+    "id": "milk_1l",
+    "name": "Milk 1L",
+    "category": "Groceries",
+    "price": 60.0,
+    "brand": "DairyPure",
+    "size": "1L",
+    "units": "bottle",
+    "tags": ["dairy", "vegetarian"]
+  },
+  {
+    "id": "eggs_6",
+    "name": "Eggs (6 pack)",
+    "category": "Groceries",
+    "price": 90.0,
+    "brand": "FarmFresh",
+    "size": "6 pcs",
+    "units": "pack",
+    "tags": ["protein"]
+  },
+  {
+    "id": "peanut_butter_200g",
+    "name": "Peanut Butter 200g",
+    "category": "Groceries",
+    "price": 180.0,
+    "brand": "Nutty",
+    "size": "200g",
+    "units": "jar",
+    "tags": ["vegan", "spread"]
+  },
+  {
+    "id": "jam_200g",
+    "name": "Strawberry Jam 200g",
+    "category": "Groceries",
+    "price": 140.0,
+    "brand": "SpreadJoy",
+    "size": "200g",
+    "units": "jar",
+    "tags": ["spread"]
+  },
+  {
+    "id": "pasta_500g",
+    "name": "Pasta 500g",
+    "category": "Groceries",
+    "price": 120.0,
+    "brand": "PastaPrime",
+    "size": "500g",
+    "units": "pack",
+    "tags": ["vegan", "italian"]
+  },
+  {
+    "id": "pasta_sauce_400g",
+    "name": "Pasta Sauce 400g",
+    "category": "Groceries",
+    "price": 150.0,
+    "brand": "Saucy",
+    "size": "400g",
+    "units": "jar",
+    "tags": ["sauce", "italian"]
+  },
+  {
+    "id": "olive_oil_500ml",
+    "name": "Olive Oil 500ml",
+    "category": "Groceries",
+    "price": 450.0,
+    "brand": "Oliva",
+    "size": "500ml",
+    "units": "bottle",
+    "tags": ["cooking", "gluten-free"]
+  },
+  {
+    "id": "instant_noodles",
+    "name": "Instant Noodles",
+    "category": "Snacks",
+    "price": 25.0,
+    "brand": "NoodleGo",
+    "size": "70g",
+    "units": "pack",
+    "tags": ["snack"]
+  },
+  {
+    "id": "banana_6",
+    "name": "Bananas (6 pcs)",
+    "category": "Groceries",
+    "price": 80.0,
+    "brand": "FreshFarms",
+    "size": "6 pcs",
+    "units": "bunch",
+    "tags": ["fruit", "vegan"]
+  },
+  {
+    "id": "pizza_margherita",
+    "name": "Margherita Pizza (Prepared)",
+    "category": "Prepared Food",
+    "price": 350.0,
+    "brand": "PizzaHouse",
+    "size": "single",
+    "units": "piece",
+    "tags": ["vegetarian", "prepared"]
+  },
+  {
+    "id": "sandwich_club",
+    "name": "Club Sandwich (Prepared)",
+    "category": "Prepared Food",
+    "price": 220.0,
+    "brand": "SandwichCorner",
+    "size": "single",
+    "units": "piece",
+    "tags": ["prepared"]
+  },
+  {
+    "id": "butter_250g",
+    "name": "Salted Butter 250g",
+    "category": "Groceries",
+    "price": 200.0,
+    "brand": "DairyGold",
+    "size": "250g",
+    "units": "pack",
+    "tags": ["dairy"]
+  },
+  {
+    "id": "rice_1kg",
+    "name": "Basmati Rice 1kg",
+    "category": "Groceries",
+    "price": 220.0,
+    "brand": "RoyalRice",
+    "size": "1kg",
+    "units": "bag",
+    "tags": []
+  },
+  {
+    "id": "sugar_1kg",
+    "name": "Sugar 1kg",
+    "category": "Groceries",
+    "price": 55.0,
+    "brand": "SweetCo",
+    "size": "1kg",
+    "units": "bag",
+    "tags": []
+  },
+  {
+    "id": "butter_toast_spread",
+    "name": "Butter Toast Spread 100g",
+    "category": "Snacks",
+    "price": 95.0,
+    "brand": "ToastBest",
+    "size": "100g",
+    "units": "jar",
+    "tags": ["spread"]
+  }
+]
