@@ -1,0 +1,28 @@
+[
+  {
+    "id": "order-9231a4a5",
+    "items": [
+      {
+        "product_id": "tee-003",
+        "name": "Graphic Tee",
+        "unit_price": 499,
+        "quantity": 1,
+        "line_total": 499,
+        "attrs": {
+          "size": "L"
+        }
+      },
+      {
+        "product_id": "phone-003",
+        "name": "Samsung M-Series",
+        "unit_price": 25000,
+        "quantity": 1,
+        "line_total": 25000,
+        "attrs": {}
+      }
+    ],
+    "total": 25499,
+    "currency": "INR",
+    "created_at": "2025-11-30T13:26:45.760991Z"
+  }
+]
